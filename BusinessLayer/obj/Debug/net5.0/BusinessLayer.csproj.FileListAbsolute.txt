@@ -1,0 +1,51 @@
+C:\Users\unknown\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\unknown\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unknown\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\unknown\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\unknown\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\unknown\source\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\unknown\source\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\unknown\source\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\unknown\source\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\unknown\source\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\unknown\source\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\unknown\source\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\unknown\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\unknown\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\unknown\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\unknown\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\unknown\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+D:\Format Öncesi\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+D:\Format Öncesi\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+D:\Format Öncesi\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+D:\Format Öncesi\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+D:\Format Öncesi\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\Format Öncesi\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\Format Öncesi\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\Format Öncesi\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\Format Öncesi\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Format Öncesi\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\Format Öncesi\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+D:\Format Öncesi\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Format Öncesi\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+D:\Format Öncesi\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+D:\Format Öncesi\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+D:\Format Öncesi\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+D:\Format Öncesi\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\fener\source\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\fener\source\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\fener\source\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\fener\source\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\fener\source\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\fener\source\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\fener\source\repos\CoreDemo\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\fener\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\fener\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fener\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\fener\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\fener\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fener\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\fener\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\fener\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\fener\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\fener\source\repos\CoreDemo\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
